@@ -1,2 +1,28 @@
 Content added by Member 1
 Content  by Member 1
+PS C:\Users\crajsr\Desktop\matericsUi\exercise_3> git log
+WARNING: terminal is not fully functional
+Press RETURN to continue 
+commit fbc691223affaa61056b2998574668f35adc698a (HEAD -> main, origin/main, origin/HEAD)
+Merge: 09e3fcf 45d3679
+Author: kamal01singh <kamalsinghk001@gmail.com>
+Date:   Sun Jan 28 12:17:37 2024 +0530
+
+    Merge remote-tracking branch 'origin/main'
+
+commit 09e3fcfc60b87f6c7cb90b3376a7d828d6421472
+Author: kamal01singh <kamalsinghk001@gmail.com>
+Date:   Sun Jan 28 12:16:57 2024 +0530
+
+    member 1 commit
+
+commit 45d367954421d7091e25224d43b7f10fc9d33c3b
+Merge: 29243aa 3a90098
+Author: Cj <77007307+Cj27emperor@users.noreply.github.com>
+Date:   Sun Jan 28 12:12:15 2024 +0530
+
+    Merge branch 'main' of https://github.com/kamal01singh/exercise_3
+
+commit 29243aa49a5416e997e155511713e603ec948732
+Author: Cj <77007307+Cj27emperor@users.noreply.github.com>
+:
